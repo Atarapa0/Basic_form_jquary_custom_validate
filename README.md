@@ -65,8 +65,8 @@ todolist - Copy/
 
 1. Clone or download the project
 ```bash
-git clone [repository-url]
-cd todolist\ -\ Copy
+git clone https://github.com/Atarapa0/Basic_form_jquary_custom_validate.git
+cd Basic_form_jquary_custom_validate
 ```
 
 2. Open `index.html` in your browser
